@@ -1,0 +1,14 @@
+{
+  "sourceCommit": "c3a2fac8312fac1dabbd8deca78a987e180523c8",
+  "repo": "https://github.com/identity-md-launches/launch-1764-pvp-pad-v3-robinhood",
+  "launch": "e7bcd0ae-3064-41d8-b289-f7c7ce8a5262",
+  "deploymentTx": "0x74d8ff9663552319618241ee5b4a5d11a0ddf7afe15753b2fa71f23e6e05472c",
+  "deploymentBlock": 88712514,
+  "contracts": {
+    "PvPPad": "0xf425c5130208847f2e8422e35bcd37dcb7540bc5",
+    "PadLiquidity": "0x3ebbe5148eb9a2c45c5d2206dd9b8d9bf7ef7700",
+    "KingOfThePad": "0xafb61b177e7522c748f9b3e138843a39ac189b37",
+    "PadGame": "0x82c032a933bf351c3b14d356b694e63f3cbb51eb",
+    "PadToken": "0x6870b7777e30a3f152a5bb6476d1152211a017f0"
+  }
+}

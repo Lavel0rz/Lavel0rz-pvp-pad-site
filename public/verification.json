@@ -1,0 +1,194 @@
+{
+ "sourceCommit": "c3a2fac8312fac1dabbd8deca78a987e180523c8",
+ "contracts": {
+  "PvPPad": {
+   "address": "0xf425c5130208847f2e8422e35bcd37dcb7540bc5",
+   "abiHash": "6875e488c080c2b0bd13b569da0d2274766d5d9a5c3a773c510798389097bf84",
+   "codeHash": "0xef83cd7c977b6f5348a2994d79ed6fc702fb861460cffdc087415c3c7f34b0c5",
+   "masks": [
+    {
+     "start": 1489,
+     "length": 32
+    },
+    {
+     "start": 2413,
+     "length": 32
+    },
+    {
+     "start": 2831,
+     "length": 32
+    },
+    {
+     "start": 3625,
+     "length": 32
+    },
+    {
+     "start": 9607,
+     "length": 32
+    },
+    {
+     "start": 2701,
+     "length": 32
+    },
+    {
+     "start": 5082,
+     "length": 32
+    },
+    {
+     "start": 7126,
+     "length": 32
+    },
+    {
+     "start": 9458,
+     "length": 32
+    },
+    {
+     "start": 480,
+     "length": 32
+    },
+    {
+     "start": 2743,
+     "length": 32
+    },
+    {
+     "start": 5124,
+     "length": 32
+    },
+    {
+     "start": 9500,
+     "length": 32
+    },
+    {
+     "start": 815,
+     "length": 32
+    },
+    {
+     "start": 1707,
+     "length": 32
+    },
+    {
+     "start": 4702,
+     "length": 32
+    }
+   ]
+  },
+  "PadLiquidity": {
+   "address": "0x3ebbe5148eb9a2c45c5d2206dd9b8d9bf7ef7700",
+   "abiHash": "f24d6ad188ae6eaad7d0c294b666b9b8a51ae9950ba3ed1a0338c26b57088596",
+   "codeHash": "0x98a84dafca817c556748af95fbf276c40025ce3673cedf67e5b47f2f943f7b61",
+   "masks": [
+    {
+     "start": 32,
+     "length": 32
+    },
+    {
+     "start": 902,
+     "length": 32
+    },
+    {
+     "start": 1330,
+     "length": 32
+    },
+    {
+     "start": 1957,
+     "length": 32
+    },
+    {
+     "start": 4343,
+     "length": 32
+    },
+    {
+     "start": 7016,
+     "length": 32
+    },
+    {
+     "start": 7357,
+     "length": 32
+    },
+    {
+     "start": 7572,
+     "length": 32
+    },
+    {
+     "start": 7883,
+     "length": 32
+    },
+    {
+     "start": 9959,
+     "length": 32
+    },
+    {
+     "start": 12599,
+     "length": 32
+    },
+    {
+     "start": 12802,
+     "length": 32
+    },
+    {
+     "start": 797,
+     "length": 32
+    },
+    {
+     "start": 2317,
+     "length": 32
+    },
+    {
+     "start": 3955,
+     "length": 32
+    },
+    {
+     "start": 9663,
+     "length": 32
+    }
+   ]
+  },
+  "KingOfThePad": {
+   "address": "0xafb61b177e7522c748f9b3e138843a39ac189b37",
+   "abiHash": "22001876f8d4c736a33808d2bf305058277f82b6b4f596003b2428837f041826",
+   "codeHash": "0xc1fbec8c0ac64e3d1cf6482d4784b62f09c98b1e05d9f6a32534318c58d6c8e9",
+   "masks": [
+    {
+     "start": 641,
+     "length": 32
+    },
+    {
+     "start": 1283,
+     "length": 32
+    },
+    {
+     "start": 714,
+     "length": 32
+    },
+    {
+     "start": 1356,
+     "length": 32
+    },
+    {
+     "start": 2784,
+     "length": 32
+    },
+    {
+     "start": 1848,
+     "length": 32
+    },
+    {
+     "start": 2908,
+     "length": 32
+    }
+   ]
+  },
+  "PadGame": {
+   "address": "0x82c032a933bf351c3b14d356b694e63f3cbb51eb",
+   "abiHash": "2457569da93b3dbac4a5b9a51c62f8e19072ef7925a50125d1926ea3da6cd2e3",
+   "codeHash": "0x585d6ca8584f2662b19d6515ce65be4048fdf5eeb65a7e50554c1c986fa503fe",
+   "masks": []
+  },
+  "PadToken": {
+   "address": "0x6870b7777e30a3f152a5bb6476d1152211a017f0",
+   "abiHash": "b113a15a243329c0d4ecd37579982840db0d6def8ba4bd5a428c28d371d73f17",
+   "codeHash": "0xef9dc66cf5b58955706569688ebab4ef0bbd53244f1099488bdbbdf4c3056a3e",
+   "masks": []
+  }
+ }
+}
